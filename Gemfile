@@ -17,6 +17,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'materialize-sass'
 #Devise User Sign In/Up
 gem 'devise'
+#Toastr gem for alerts
+gem 'toastr-rails'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
