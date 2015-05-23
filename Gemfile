@@ -19,6 +19,9 @@ gem 'materialize-sass'
 gem 'devise'
 #Toastr gem for alerts
 gem 'toastr-rails'
+#Mandrill gem for sending welcome email and passsword reset
+gem 'mandrill-api', '1.0.52', require: 'mandrill'
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
