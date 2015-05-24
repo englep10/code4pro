@@ -28,6 +28,8 @@ gem 'omniauth-google-oauth2'
 #Adding Facebook Log In
 gem 'omniauth-facebook'
 
+#Adding Github Login
+gem 'omniauth-github'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
