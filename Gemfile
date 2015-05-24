@@ -21,6 +21,9 @@ gem 'devise'
 gem 'toastr-rails'
 #Mandrill gem for sending welcome email and passsword reset
 gem 'mandrill-api', '1.0.52', require: 'mandrill'
+#Adding the Google oauth system
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
 
 
 # Use jquery as the JavaScript library
