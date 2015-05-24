@@ -25,6 +25,9 @@ gem 'mandrill-api', '1.0.52', require: 'mandrill'
 gem 'omniauth'
 gem 'omniauth-google-oauth2'
 
+#Adding Facebook Log In
+gem 'omniauth-facebook'
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
