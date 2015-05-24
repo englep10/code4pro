@@ -35,6 +35,8 @@ gem 'activeadmin', github: 'activeadmin'
 #Admin_Active skin
 gem 'active_skin'
 
+gem "paperclip", "~> 4.2.1"
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
