@@ -41,6 +41,8 @@ gem 'redcarpet', '~> 3.2.3'
 gem 'coderay', '~> 1.1.0'
 #Friendly URLS
 gem 'friendly_id', '~> 5.1.0'
+#fixing active admin sortable of Tasks
+gem 'active_admin-sortable_tree', '~> 0.2.1'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
