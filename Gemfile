@@ -34,9 +34,11 @@ gem 'omniauth-github'
 gem 'activeadmin', github: 'activeadmin'
 #Admin_Active skin
 gem 'active_skin'
-
+#ability to upload documents
 gem "paperclip", "~> 4.2.1"
-
+#For Markdown Functionality
+gem 'redcarpet', '~> 3.2.3'
+gem 'coderay', '~> 1.1.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
