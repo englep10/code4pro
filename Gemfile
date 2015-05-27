@@ -39,6 +39,8 @@ gem "paperclip", "~> 4.2.1"
 #For Markdown Functionality
 gem 'redcarpet', '~> 3.2.3'
 gem 'coderay', '~> 1.1.0'
+#Friendly URLS
+gem 'friendly_id', '~> 5.1.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
