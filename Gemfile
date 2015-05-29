@@ -43,6 +43,8 @@ gem 'coderay', '~> 1.1.0'
 gem 'friendly_id', '~> 5.1.0'
 #fixing active admin sortable of Tasks
 gem 'active_admin-sortable_tree', '~> 0.2.1'
+#Stripe Payment
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
